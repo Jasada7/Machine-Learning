@@ -1,3 +1,5 @@
+  # Pokemon
+   * Random forest regression
   # PM2.5 
    * Multiple linear regression
   # Bank Customer Churn Prediction
